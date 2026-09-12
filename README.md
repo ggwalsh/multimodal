@@ -18,4 +18,4 @@ python speech_recognizer.py
 
 PyAudio is the painful one on macOS and Linux. A webcam and a microphone are required.
 
-Geoff Walsh · AAI202 · A00186663
+Geoff Walsh · AAI202

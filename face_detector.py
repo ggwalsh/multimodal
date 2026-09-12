@@ -1,7 +1,7 @@
 """
 Face Detector for Multimodal AI System
 AAI202 Applications of Artificial Intelligence
-Author: Geoff Walsh (A00186663)
+Author: Geoff Walsh
 
 Captures frames from the webcam, detects human faces using OpenCV's
 Haar Cascade classifier, draws bounding boxes, and allows the user

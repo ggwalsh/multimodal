@@ -1,7 +1,7 @@
 """
 Speech Recogniser for Multimodal AI System
 AAI202 Applications of Artificial Intelligence
-Author: Geoff Walsh (A00186663)
+Author: Geoff Walsh
 
 Captures speech from the default microphone and converts it to text
 using the SpeechRecognition library with the Google Web Speech API.
