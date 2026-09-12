@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+face_detection_results/
+.DS_Store
